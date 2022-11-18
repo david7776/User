@@ -7,7 +7,9 @@ http://181.175.41.170:8000/play/a02h
 #EXTINF:-1 tvg-id="dw.ec" tvg-name="INT| CARACOL" tvg-logo="" group-title="TV | Internacional",CARACOL
 http://streamgo.vip:8008/cristian2022/cristian2022/159038
 #EXTINF:-1 tvg-id="dw.ec" tvg-name="INT| RCN" tvg-logo="" group-title="TV | Internacional",RCN
-http://177.234.230.226:8010/play/a02r/index.m3u8
+http://190.60.39.62:8000/play/a034
+#EXTINF:-1 tvg-id="dw.ec" tvg-name="INT| RCN 2" tvg-logo="" group-title="TV | Internacional",RCN 2
+http://190.60.39.62:8000/play/b01
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS QATAR" tvg-logo="" group-title="TV | Deportes",BEIN SPORTS QATAR
 http://62.182.82.104/L_1_PREMIUM/index.m3u8?token=test&v=697229347
 #EXTINF:-1 tvg-id="bein.ec" tvg-name="DEP| BEIN SPORTS 2 QATAR" tvg-logo="" group-title="TV | Deportes",BEIN SPORTS 2 QATAR
@@ -78,6 +80,8 @@ http://disfruta.net:80/kikeledesma/dFvFKDYx57/7657
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/2679
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| TUDN MEX" tvg-logo="" group-title="TV | Deportes",TUDN MEX
 http://190.61.102.67:444/play/a07e
+#EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| TV AZTECA" tvg-logo="" group-title="TV | Deportes",TV AZTECA
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/678
 #EXTINF:-1 tvg-id="tyc.ec" tvg-name="DEP| TYC SPORT" tvg-logo="" group-title="TV | Deportes",TYC SPORT
 http://160.20.164.171:8001/play/a051/index.m3u8
 #EXTINF:-1 tvg-id="sky.ec" tvg-name="DEP| SKY SPORT" tvg-logo="" group-title="TV | Deportes",SKY SPORT
@@ -86,3 +90,12 @@ http://disfruta.net:80/kikeledesma/dFvFKDYx57/14526
 http://190.61.102.67:444/play/a00p
 #EXTINF:-1 tvg-id="sky.ec" tvg-name="DEP| TD+ 2" tvg-logo="" group-title="TV | Deportes",TD+ 2
 http://190.61.102.67:444/play/a00q
+#EXTINF:-1 tvg-id="sky.ec" tvg-name="DEP| TELEMUNDO" tvg-logo="" group-title="TV | Deportes",TELEMUNDO
+http://190.60.39.62:8000/play/a02g
+#EXTINF:-1 tvg-id="sky.ec" tvg-name="DEP| TNT SPORT 1" tvg-logo="" group-title="TV | Deportes",TNT SPORT 1
+http://45.232.211.196:1080/play/a040
+#EXTINF:-1 tvg-id="sky.ec" tvg-name="DEP| TNT SPORT 2" tvg-logo="" group-title="TV | Deportes",TNT SPORT 2
+http://45.162.135.1:1080/play/a037
+#EXTINF:-1 tvg-id="sky.ec" tvg-name="DEP| TNT SPORT 3" tvg-logo="" group-title="TV | Deportes",TNT SPORT 3
+http://45.162.135.1:1080/play/a049
+
