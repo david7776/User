@@ -70,8 +70,8 @@ http://disfruta.net:80/kikeledesma/dFvFKDYx57/3261
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/3259
 #EXTINF:-1 tvg-id="tycsport.ec" tvg-name="DEP| SPORTV 3" tvg-logo="" group-title="TV | Deportes",SPORTV 3
 http://disfruta.net:80/kikeledesma/dFvFKDYx57/3260
-#EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| LATINA " tvg-logo="" group-title="TV | Deportes",LATINA 
-
+#EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| TELEVISA " tvg-logo="" group-title="TV | Deportes",TELEVISA
+https://v-px.mybtv.net/live/39/1280x720.m3u8
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| TIGO SPORT 1 HD" tvg-logo="" group-title="TV | Deportes",TIGO SPORT 1 HD
 http://45.190.185.210:8000/play/a086
 #EXTINF:-1 tvg-id="movistar.ec" tvg-name="DEP| TIGO SPORT 2 HD" tvg-logo="" group-title="TV | Deportes",TIGO SPORT 2 HD
